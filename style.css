@@ -154,7 +154,7 @@ select option {
 }
 
 #submit {
-  background-color: green;
+  background-color: rgb(107, 135, 107);
   cursor: pointer;
   border-radius: 10px;
   transition: 0.2s all;
@@ -948,7 +948,7 @@ nav ul li a:hover {
 
 .box h1 {
   font-family: Arial, sans-serif;
-  font-size: 39px;
+  font-size: 39px; 
   color: #ffffff;
 }
 
